@@ -39,10 +39,10 @@
 - **Tools:** AWS, GitHub, Docker  
 
 ### 📫 How to Reach Me
-- **[Email:](mailto:ahmedsamyallban2000@gmail.com)**
-- **[LinkedIn:](https://www.linkedin.com/in/ahmed-samy-ellaban/)**
-- **[Upwork](https://upwork.com/freelancers/ahmedellban):**
-- **[Youtube](https://www.youtube.com/channel/UCOzvZQlIJgSGUcCzHKatIhQ):**
+- **[Email](mailto:ahmedsamyallban2000@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/ahmed-samy-ellaban/)**
+- **[Upwork](https://upwork.com/freelancers/ahmedellban)**
+- **[Youtube](https://www.youtube.com/channel/UCOzvZQlIJgSGUcCzHKatIhQ)**
 
 ---
 
