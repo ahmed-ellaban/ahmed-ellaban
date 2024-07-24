@@ -46,25 +46,25 @@
 
 ---
 
-<details><summary>📈 My GitHub Stats</summary>
+<div><span>📈 My GitHub Stats</span>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Naeem's Github Stats" src="https://githup-stats-ahmed-ellaban.vercel.app/api?username=ahmed-ellaban&show_icons=true&hide_border=true" />
 </a>
 </p>
-</details>
+</div>
 
-<details><summary>💥 Recent GitHub Activity</summary>
+<!--div><summary>💥 Recent GitHub Activity</summary>
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
-</details>
+<!--/div-->
 
-<details><summary>🔥 Streak Stats</summary>
+<div><span>🔥 Streak Stats</span>
 <p align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ellaban&theme=tokyonight_duo"/>
 </a>
 </p>
-</details>
+</div>
 
 
