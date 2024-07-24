@@ -49,7 +49,7 @@
 <details><summary>📈 My GitHub Stats</summary>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Naeem's Github Stats" src="https://githup-stats.vercel.app/api?username=ahmed-ellaban&show_icons=true&hide_border=true" />
+  <img alt="Naeem's Github Stats" src="https://githup-stats-ahmed-ellaban.vercel.app/api?username=ahmed-ellaban&show_icons=true&hide_border=true" />
 </a>
 </p>
 </details>
